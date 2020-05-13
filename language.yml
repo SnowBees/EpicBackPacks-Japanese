@@ -15,5 +15,5 @@ offline-player: '&cプレーヤーはオフラインです！'
 backpack-doesnt-exists: '&cバックパックは存在しません'
 auto-pickup-enable: '&a自動ピックアップを有効にしました'
 auto-pickup-disable: '&e自動ピックアップを無効にしました'
-inventory-overload: '&c&lバックパックを多めに配置したり、バックパック内に追加したアイテムが多すぎます。 
-  バックパックからバックパックをいくつか削除してください！'
+inventory-overload: '&c&lバックパックを多めに配置したり、バックパック内に追加したアイテムが多すぎます。
+  バックパックからいくつか削除してください！'
