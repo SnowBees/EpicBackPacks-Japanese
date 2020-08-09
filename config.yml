@@ -1,10 +1,11 @@
-items_lang: "ja-jp"
+items_lang: "ja_jp"
 pickup_items_into_backpacks: true
 max_bp_in_inventory: 999
 gui_rows: 6
 disable_put_in_enderchest: true
 disable_put_in_shulkerboxes: true
 disable_drop_backpacks: false
+disable_open_with_off_hand: false
 add_recipes_in_recipebook_on_join: true
 use_actionbar_for_messages: false
 debug:
