@@ -6,6 +6,9 @@ backpacks:
     item:
       type: HEAD
       texture: 'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmEzYjM0ODYyYjlhZmI2M2NmOGQ1Nzc5OTY2ZDNmYmE3MGFmODJiMDRlODNmM2VhZjY0NDlhZWJhIn19fQ=='
+      lore:
+        - "&6[ &ePortable Backpack &6]"
+        - "&fYou can store any item."
     size: 2
     blacklist:
       - BARRIER
